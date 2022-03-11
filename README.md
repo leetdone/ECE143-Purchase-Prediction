@@ -17,4 +17,4 @@ Visualize countries, orders, prices, product description, implement time series 
 
 ## Third-party modules
 
-pandas, utils, sklearn, plotly, matplotlib, numpy, nltk, wordcloud, google.colab
+pandas, utils, sklearn, plotly, matplotlib, numpy, nltk, wordcloud, google.colab, IPython
