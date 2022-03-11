@@ -12,8 +12,9 @@ Visualize countries, orders, prices, product description, implement time series 
 
 ## How to run our code:
 1. Import third-party modules
-2. Run data_cleaning.py and model.py in Python3
-3. Run visualization in jupyter notebook
+2. Run data_cleaning.py _command: python3 -m data_cleaning_final --input=<filename>
+3. Run model.py in Python3
+4. Run visualization in jupyter notebook
 
 ## Third-party modules
 
