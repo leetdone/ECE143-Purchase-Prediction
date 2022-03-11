@@ -15,7 +15,7 @@ Visualize countries, orders, prices, product description, implement time series 
 2. Run data_cleaning.py  
 *command: python3 -m data_cleaning_final --input=<filename>*
 3. Run model.py in Python3  
-  *python3 main.py --input_init "./data.csv" --input_cleaned "./dataprocessed.csv"*
+  *command: python3 main.py --input_init "./data.csv" --input_cleaned "./dataprocessed.csv"*
 4. Run visualization in jupyter notebook
 
 ## Third-party modules
